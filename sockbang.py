@@ -12,8 +12,6 @@ def serverget():
     server.listen(1)
     print("Waiting for a connection...")
 
-    print(server.accept())
-
     conn, addr = server.accept()
 
     
@@ -21,6 +19,7 @@ def serverget():
     print(f"Connection on {conn} from {addr}")
 
     conn.sendall(b"SECRETCODE15")
+    
     conn.close()
 
 serverget()
