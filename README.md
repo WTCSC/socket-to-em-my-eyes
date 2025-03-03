@@ -74,7 +74,6 @@ Both the server and client support logging at different levels (`DEBUG`, `INFO`,
 - Open a random website:
 ```rand```
 
-
 ---
 
 ## Notes
