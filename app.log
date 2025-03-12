@@ -1,0 +1,42 @@
+2025-02-28 09:09:20,621 - INFO - Handshake successful.
+2025-02-28 09:09:25,365 - DEBUG - Click
+2025-02-28 09:09:25,467 - DEBUG - Click
+2025-02-28 09:09:25,568 - DEBUG - Click
+2025-02-28 09:09:25,568 - INFO - Successfully triple clicked
+2025-02-28 09:09:29,286 - DEBUG - Click
+2025-02-28 09:09:29,387 - DEBUG - Click
+2025-02-28 09:09:29,491 - DEBUG - Click
+2025-02-28 09:09:29,491 - INFO - Successfully triple clicked
+2025-02-28 09:09:30,335 - DEBUG - Click
+2025-02-28 09:09:30,438 - DEBUG - Click
+2025-02-28 09:09:30,539 - DEBUG - Click
+2025-02-28 09:09:30,539 - INFO - Successfully triple clicked
+2025-02-28 09:09:31,118 - DEBUG - Click
+2025-02-28 09:09:31,220 - DEBUG - Click
+2025-02-28 09:09:31,322 - DEBUG - Click
+2025-02-28 09:09:31,322 - INFO - Successfully triple clicked
+2025-02-28 09:09:31,838 - DEBUG - Click
+2025-02-28 09:09:31,940 - DEBUG - Click
+2025-02-28 09:09:32,041 - DEBUG - Click
+2025-02-28 09:09:32,041 - INFO - Successfully triple clicked
+2025-02-28 09:09:41,920 - DEBUG - Click
+2025-02-28 09:09:42,022 - DEBUG - Click
+2025-02-28 09:09:42,124 - DEBUG - Click
+2025-02-28 09:09:42,124 - INFO - Successfully triple clicked
+2025-02-28 09:09:44,728 - DEBUG - Click
+2025-02-28 09:09:44,830 - DEBUG - Click
+2025-02-28 09:09:44,932 - DEBUG - Click
+2025-02-28 09:09:44,932 - INFO - Successfully triple clicked
+2025-02-28 09:09:46,651 - INFO - Received command: click
+2025-02-28 09:09:46,768 - DEBUG - Click
+2025-02-28 09:09:46,870 - DEBUG - Click
+2025-02-28 09:09:46,972 - DEBUG - Click
+2025-02-28 09:09:46,973 - INFO - Successfully triple clicked
+2025-02-28 09:10:16,071 - DEBUG - Flashbang out!
+2025-02-28 09:10:19,152 - INFO - Successfully deployed flashbang
+2025-02-28 09:10:19,435 - DEBUG - Exiting gracefully via keyboard...
+2025-02-28 09:10:19,466 - INFO - Quit command received. Exiting...
+2025-02-28 09:53:15,727 - ERROR - [WinError 10053] An established connection was aborted by the software in your host machine
+2025-02-28 10:09:01,349 - INFO - Hosting on Port 6596
+2025-02-28 10:09:39,482 - INFO - Connection accepted from ('127.0.0.1', 65168)
+2025-02-28 10:26:17,118 - INFO - Connection closed.
